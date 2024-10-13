@@ -5,7 +5,7 @@ import Searchbar from './components/Searchbar'
 import PricingSection from './components/Pricingsection'
 import Stats from './components/Stats'
 import Contact from './components/Contact'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 
 
 
