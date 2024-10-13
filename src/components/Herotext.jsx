@@ -43,7 +43,7 @@ const Herotext = () => {
 
   return (
     <div className='flex justify-center h-52 mt-20'>
-    <div className="text-black text-5xl font-bold">
+    <div className="text-black text-5xl font-bold text-center">
       The <span className='text-red-600'>{text}</span>
       <span className={`text-red-500 ${showCursor ? 'inline-block' : 'hidden'}`}>|</span> way to do YouTube videos
     </div>

@@ -4,7 +4,7 @@ const Searchbar = () => {
   return (
     <div className='w-screen flex justify-center'>
         <div className="mt-8 w-full max-w-md">
-          <div className='flex gap-2 w-[630px]'>
+          <div className='flex flex-col justify-center items-center lg:flex-row gap-2 w-[380px] lg:w-[630px]'>
           <input
             type="text"
             placeholder="Enter your YouTube video link here..."
